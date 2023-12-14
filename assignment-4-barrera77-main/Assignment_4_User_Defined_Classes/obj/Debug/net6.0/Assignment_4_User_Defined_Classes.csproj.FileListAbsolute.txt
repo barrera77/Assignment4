@@ -1,0 +1,14 @@
+D:\Programming Section\Programming Practice\Assignment_4_User_Defined_Classes\bin\Debug\net6.0\Assignment_4_User_Defined_Classes.exe
+D:\Programming Section\Programming Practice\Assignment_4_User_Defined_Classes\bin\Debug\net6.0\Assignment_4_User_Defined_Classes.deps.json
+D:\Programming Section\Programming Practice\Assignment_4_User_Defined_Classes\bin\Debug\net6.0\Assignment_4_User_Defined_Classes.runtimeconfig.json
+D:\Programming Section\Programming Practice\Assignment_4_User_Defined_Classes\bin\Debug\net6.0\Assignment_4_User_Defined_Classes.dll
+D:\Programming Section\Programming Practice\Assignment_4_User_Defined_Classes\bin\Debug\net6.0\Assignment_4_User_Defined_Classes.pdb
+D:\Programming Section\Programming Practice\Assignment_4_User_Defined_Classes\obj\Debug\net6.0\Assignment_4_User_Defined_Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Section\Programming Practice\Assignment_4_User_Defined_Classes\obj\Debug\net6.0\Assignment_4_User_Defined_Classes.AssemblyInfoInputs.cache
+D:\Programming Section\Programming Practice\Assignment_4_User_Defined_Classes\obj\Debug\net6.0\Assignment_4_User_Defined_Classes.AssemblyInfo.cs
+D:\Programming Section\Programming Practice\Assignment_4_User_Defined_Classes\obj\Debug\net6.0\Assignment_4_User_Defined_Classes.csproj.CoreCompileInputs.cache
+D:\Programming Section\Programming Practice\Assignment_4_User_Defined_Classes\obj\Debug\net6.0\Assignment_4_User_Defined_Classes.dll
+D:\Programming Section\Programming Practice\Assignment_4_User_Defined_Classes\obj\Debug\net6.0\refint\Assignment_4_User_Defined_Classes.dll
+D:\Programming Section\Programming Practice\Assignment_4_User_Defined_Classes\obj\Debug\net6.0\Assignment_4_User_Defined_Classes.pdb
+D:\Programming Section\Programming Practice\Assignment_4_User_Defined_Classes\obj\Debug\net6.0\Assignment_4_User_Defined_Classes.genruntimeconfig.cache
+D:\Programming Section\Programming Practice\Assignment_4_User_Defined_Classes\obj\Debug\net6.0\ref\Assignment_4_User_Defined_Classes.dll

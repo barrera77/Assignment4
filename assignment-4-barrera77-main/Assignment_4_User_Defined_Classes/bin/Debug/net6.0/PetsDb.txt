@@ -1,0 +1,4 @@
+Benito,2,6.7,Cat
+Kot,3,8.3,Cat
+Rambo,3,19.2,Dog
+Solovino,1,17,Dog

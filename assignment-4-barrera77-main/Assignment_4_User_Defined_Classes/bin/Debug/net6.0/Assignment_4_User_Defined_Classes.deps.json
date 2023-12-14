@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Assignment_4_User_Defined_Classes/1.0.0": {
+        "runtime": {
+          "Assignment_4_User_Defined_Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment_4_User_Defined_Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
